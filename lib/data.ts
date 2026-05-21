@@ -69,7 +69,7 @@ export const TOOL_LINKS: Links[] = [
 export const WORK_EXPERIENCE: WorkExperience[] = [
   {
     company: 'egxo.dev',
-    title: 'Full Stack Developer & Digital Product Designer',
+    title: 'Freelance Full Stack Developer',
     start: '2023',
     end: 'Present',
     link: 'https://egxo.dev',
