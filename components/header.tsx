@@ -56,7 +56,7 @@ export function Header() {
             href="/"
             className="font-bold text-foreground/80 hover:text-foreground"
           >
-            ★ Ethan Garrison ★
+            Ethan Garrison
           </Link>
           <TextEffect
             as="p"
@@ -65,7 +65,7 @@ export function Header() {
             className="text-accent-foreground/80"
             delay={0.5}
           >
-            Developer // Designer
+            Software & Business Developer
           </TextEffect>
         </section>
       </header>
