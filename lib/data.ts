@@ -68,7 +68,7 @@ export const TOOL_LINKS: Links[] = [
 
 export const WORK_EXPERIENCE: WorkExperience[] = [
   {
-    company: 'Freelance',
+    company: 'egxo.dev',
     title: 'Full Stack Developer & Digital Product Designer',
     start: '2023',
     end: 'Present',
@@ -76,11 +76,11 @@ export const WORK_EXPERIENCE: WorkExperience[] = [
     id: 'work1',
   },
   {
-    company: 'Sway Bae',
+    company: 'swaybae.net',
     title: 'Creative Tech & Event Lead',
     start: '2023',
-    end: 'Present',
-    link: 'https://egxo.dev',
+    end: '2026',
+    link: 'https://swaybae.net',
     id: 'work2',
   },
   {
@@ -260,17 +260,17 @@ export const ABOUT_ITEMS: AboutTab[] = [
   {
     title: 'Full Stack Development',
     subtitle: 'Building for the Web',
-    content: `I design and build modern web applications from front to back. I focus on creating clean, accessible interfaces and building scalable back-end systems. My current stack includes TypeScript, React, Next.js, Tailwind CSS, Node.js, and Supabase, with attention to SEO, performance, accessibility, and real-world usability. I also explore how AI and machine learning can enhance development workflows and product capabilities when used responsibly. In the past, I've worked with MongoDB, Prisma, MySQL, Express, Bootstrap, and jQuery, all of which continue to shape how I approach new projects. Always looking to collaborate, so get in touch and let's build something beautiful!`,
+    content: `I design and build modern web applications from front to back. I focus on creating clean, accessible interfaces and building scalable back-end systems. My current stack includes TypeScript, React, Next.js, Tailwind CSS, Node.js, and Supabase, with attention to SEO, performance, accessibility, and real-world usability. I also explore how AI can support development workflows, accelerate problem-solving, and enhance product capabilities when used thoughtfully and responsibly. In the past, I've worked with MongoDB, Prisma, MySQL, Express, Bootstrap, and jQuery, all of which continue to shape how I approach new projects. Always looking to collaborate, so get in touch and let's build something beautiful!`,
   },
   {
     title: 'Digital Product Design',
     subtitle: 'Shaping Experiences',
-    content: `For me, design and development go hand in hand. I approach products with a user-first mindset, blending visual design, interaction, and technical execution to create experiences that feel intuitive and purposeful. Beyond digital products, I've created design work for creators, musicians, and events, adding a creative edge that connects technology with culture. I focus on usability, accessibility, and design systems that make experiences seamless across devices. I'm exploring how AI can inform design decisions, spark creativity, and improve user experiences in ethical ways, helping to streamline workflows and unlock new creative possibilities together.`,
+    content: `For me, design and development go hand in hand. I approach products with a user-first mindset, blending visual design, interaction, and technical execution to create experiences that feel intuitive and purposeful. Beyond digital products, I've created design work for creators, musicians, and events, adding a creative edge that connects technology with culture. I focus on usability, accessibility, and design systems that make experiences seamless across devices. I'm also interested in how AI can support ideation, improve workflows, and inform better design decisions while keeping human judgment, originality, and ethics at the center of the process.`,
   },
   {
     title: 'Management & Leadership',
     subtitle: 'Driving Projects',
-    content: `Beyond code and design, I've led teams, managed client relationships, and overseen creative projects. My past roles in account management, event leadership, and operations have shaped the way I approach current and future work. I focus on balancing strategy, communication, and execution to keep projects moving smoothly. I also prioritize creating collaborative environments where team members can thrive, encouraging transparency and feedback throughout projects. I'm exploring how AI can support productivity and workflows when applied thoughtfully, making complex processes more efficient while keeping a human-centered approach.`,
+    content: `Beyond code and design, I've led teams, managed client relationships, and overseen creative projects. My past roles in account management, event leadership, and operations have shaped the way I approach current and future work. I focus on balancing strategy, communication, and execution to keep projects moving smoothly. I also prioritize creating collaborative environments where team members can thrive, encouraging transparency and feedback throughout projects. I'm interested in how AI can improve productivity and streamline workflows when applied responsibly, while still keeping collaboration, trust, and human-centered decision-making at the core.`,
   },
 ]
 
