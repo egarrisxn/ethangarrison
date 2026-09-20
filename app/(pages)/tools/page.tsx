@@ -14,7 +14,7 @@ export const metadata: Metadata = {
     canonical: '/tools',
   },
   title: 'Tools',
-  description: 'Then tools page for egxo.dev',
+  description: 'The tools page for ethangarrison.com',
 }
 
 export default function ToolsPage() {

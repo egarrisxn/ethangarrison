@@ -14,8 +14,8 @@ import {
 } from '@/components/ui/select'
 
 export default function QRCodeGenerator() {
-  const [url, setUrl] = useState('https://egxo.dev')
-  const [qrCode, setQRCode] = useState('https://egxo.dev')
+  const [url, setUrl] = useState('https://ethangarrison.com')
+  const [qrCode, setQRCode] = useState('https://ethangarrison.com')
   const [color, setColor] = useState('#000000')
   const [backgroundColor, setBackgroundColor] = useState('#ffffff')
   const [size, setSize] = useState(200)

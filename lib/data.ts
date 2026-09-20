@@ -27,15 +27,15 @@ export const SOCIAL_LINKS: Links[] = [
   },
   {
     label: 'LinkedIn',
-    href: 'https://www.linkedin.com/in/ethan-gx',
+    href: 'https://www.linkedin.com/in/ethangarrison',
   },
   {
     label: 'Instagram',
-    href: 'https://www.instagram.com/eg___xo',
+    href: 'https://www.instagram/ethanxgarrison',
   },
   {
     label: 'X (Twitter)',
-    href: 'https://x.com/eg__xo',
+    href: 'https://x.com/ethanxgarrison',
   },
   {
     label: 'Discord',
@@ -43,11 +43,11 @@ export const SOCIAL_LINKS: Links[] = [
   },
   {
     label: 'Peerlist',
-    href: 'https://peerlist.io/eg_xo',
+    href: 'https://peerlist.io/ethangarrison',
   },
   {
     label: 'Bluesky',
-    href: 'https://bsky.app/profile/egxo.bsky.social',
+    href: 'https://bsky.app/profile/ethangarrison.com',
   },
   {
     label: 'Spotify',
@@ -68,16 +68,16 @@ export const TOOL_LINKS: Links[] = [
 
 export const WORK_EXPERIENCE: WorkExperience[] = [
   {
-    company: 'egxo.dev',
-    title: 'Freelance Full Stack Developer',
+    company: 'ethangarrison.com',
+    title: 'Freelance Full-Stack Software Developer',
     start: '2023',
     end: 'Present',
-    link: 'https://egxo.dev',
+    link: 'https://ethangarrison.com',
     id: 'work1',
   },
   {
-    company: 'swaybae.net',
-    title: 'Creative Tech & Event Lead',
+    company: 'SwayBae.net',
+    title: 'Creative Tech and Event Lead',
     start: '2023',
     end: '2026',
     link: 'https://swaybae.net',
@@ -88,7 +88,7 @@ export const WORK_EXPERIENCE: WorkExperience[] = [
     title: 'Regional Account Manager',
     start: '2020',
     end: '2023',
-    link: 'https://egxo.dev',
+    link: 'https://ethangarrison.com',
     id: 'work3',
   },
 ]

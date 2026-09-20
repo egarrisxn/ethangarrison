@@ -22,7 +22,7 @@ export function Footer() {
           </a>{' '}
           |
           <a
-            href="https://egxo.dev"
+            href="https://ethangarrison.com"
             target="_blank"
             className="transition-colors duration-200 hover:text-accent-foreground"
           >

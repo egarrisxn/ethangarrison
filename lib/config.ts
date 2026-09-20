@@ -7,9 +7,9 @@ function getSiteUrl() {
 
 export const SITE_URL = getSiteUrl()
 
-export const SITE_TITLE = 'egxo.dev'
+export const SITE_TITLE = 'ethangarrison.com'
 export const SITE_DESC = 'Full Stack Developer. Digital Product Designer.'
-export const SITE_HANDLE = '@eg___xo'
+export const SITE_HANDLE = '@ethanxgarrison'
 
 // For CORS / APIs / etc.
-export const SITE_PRODUCTION_URL = 'https://egxo.dev'
+export const SITE_PRODUCTION_URL = 'https://ethangarrison.com'

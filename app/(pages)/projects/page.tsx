@@ -14,7 +14,7 @@ export const metadata: Metadata = {
     canonical: '/projects',
   },
   title: 'Projects',
-  description: 'Then projects page for egxo.dev',
+  description: 'The projects page for ethangarrison.com',
 }
 
 export default function ProjectsPage() {

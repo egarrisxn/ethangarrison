@@ -1,13 +1,13 @@
-# egxo-dev
+# ethangarrison
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-![GitHub repo size](https://img.shields.io/github/repo-size/egarrisxn/egxo-dev)
-![GitHub last commit](https://img.shields.io/github/last-commit/egarrisxn/egxo-dev)
+![GitHub repo size](https://img.shields.io/github/repo-size/egarrisxn/ethangarrison)
+![GitHub last commit](https://img.shields.io/github/last-commit/egarrisxn/ethangarrison)
 [![Next.js](https://img.shields.io/badge/Next.js-v15-black?logo=next.js)](https://nextjs.org)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-v4-blue?logo=tailwindcss)](https://tailwindcss.com)
-[![Vercel](https://img.shields.io/badge/Vercel-deployed-brightgreen?logo=vercel)](https://egxo.dev)
+[![Vercel](https://img.shields.io/badge/Vercel-deployed-brightgreen?logo=vercel)](https://ethangarrison.com)
 
-<img width="1200" height="630" alt="egxo-dev" src="https://github.com/user-attachments/assets/268a2182-ac9f-4d1b-b39f-e3b8446b3d10" />
+<img width="1200" height="630" alt="ethangarrison" src="https://github.com/user-attachments/assets/268a2182-ac9f-4d1b-b39f-e3b8446b3d10" />
 
 ## Description
 

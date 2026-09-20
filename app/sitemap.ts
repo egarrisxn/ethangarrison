@@ -23,13 +23,13 @@ export default async function sitemap() {
   const slugs = await getPostsSlugs(postsDirectory)
 
   const posts = slugs.map((slug) => ({
-    url: `https://egxo.dev/blog/${slug}`,
+    url: `https://ethangarrison.com/blog/${slug}`,
     lastModified: new Date().toISOString(),
   }))
 
   const routes = ['', '/about', '/contact', '/posts', '/projects'].map(
     (route) => ({
-      url: `https://egxo.dev/${route}`,
+      url: `https://ethangarrison.com/${route}`,
       lastModified: new Date().toISOString(),
     }),
   )

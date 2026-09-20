@@ -2,7 +2,7 @@ import type { MetadataRoute } from 'next'
 
 export default function manifest(): MetadataRoute.Manifest {
   return {
-    name: 'egxo.dev',
+    name: 'ethangarrison.com',
     short_name: 'egxo',
     description: 'Full Stack Developer. Digital Product Designer.',
     theme_color: '#071119',

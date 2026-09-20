@@ -15,7 +15,7 @@ export const metadata: Metadata = {
     canonical: '/posts',
   },
   title: 'Posts',
-  description: 'Then posts page for egxo.dev',
+  description: 'The posts page for ethangarrison.com',
 }
 
 export default function PostsPage() {

@@ -13,7 +13,7 @@ export const metadata: Metadata = {
     canonical: '/about',
   },
   title: 'About',
-  description: 'Then about page for egxo.dev',
+  description: 'The about page for ethangarrison.com',
 }
 
 export default function AboutPage() {

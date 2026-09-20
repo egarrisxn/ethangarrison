@@ -13,7 +13,7 @@ export const metadata: Metadata = {
     canonical: '/contact',
   },
   title: 'Contact',
-  description: 'Then contact page for egxo.dev.',
+  description: 'The contact page for ethangarrison.com.',
 }
 
 export default function ContactPage() {
@@ -45,7 +45,7 @@ export default function ContactPage() {
             variant="external"
           />
           <SmartLink
-            href="https://www.linkedin.com/in/ethan-gx"
+            href="https://www.linkedin.com/in/ethangarrison"
             text="LinkedIn"
             variant="external"
           />
