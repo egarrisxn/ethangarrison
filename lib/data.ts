@@ -27,11 +27,11 @@ export const SOCIAL_LINKS: Links[] = [
   },
   {
     label: 'LinkedIn',
-    href: 'https://www.linkedin.com/in/ethangarrison',
+    href: 'https://linkedin.com/in/ethangarrison',
   },
   {
     label: 'Instagram',
-    href: 'https://www.instagram/ethanxgarrison',
+    href: 'https://instagram/ethanxgarrison',
   },
   {
     label: 'X (Twitter)',
@@ -39,7 +39,7 @@ export const SOCIAL_LINKS: Links[] = [
   },
   {
     label: 'Discord',
-    href: 'https://discord.com/users/eg___xo',
+    href: 'https://discord.com/users/ethanxgarrison',
   },
   {
     label: 'Peerlist',
@@ -68,8 +68,8 @@ export const TOOL_LINKS: Links[] = [
 
 export const WORK_EXPERIENCE: WorkExperience[] = [
   {
-    company: 'ethangarrison.com',
-    title: 'Freelance Full-Stack Software Developer',
+    company: 'Freelance',
+    title: 'Full-Stack Software Developer',
     start: '2023',
     end: 'Present',
     link: 'https://ethangarrison.com',
@@ -82,14 +82,6 @@ export const WORK_EXPERIENCE: WorkExperience[] = [
     end: '2026',
     link: 'https://swaybae.net',
     id: 'work2',
-  },
-  {
-    company: 'Armadillo Ale Works',
-    title: 'Regional Account Manager',
-    start: '2020',
-    end: '2023',
-    link: 'https://ethangarrison.com',
-    id: 'work3',
   },
 ]
 
@@ -138,7 +130,7 @@ export const BLOG_POSTS: BlogPost[] = [
 
 export const SELECT_PROJECTS: ProjectWithVideo[] = [
   {
-    name: 'Quik|Res',
+    name: 'QuikRes',
     description: 'AI-powered resume-to-website generator.',
     link: 'https://quikres.vercel.app/',
     video:
@@ -175,7 +167,7 @@ export const MORE_PROJECTS: ProjectWithoutVideo[] = [
     id: 'project2',
   },
   {
-    name: 'Sway Bae Offical v2',
+    name: 'SwayBae.net v2',
     description:
       'The *NEW* online space for streamer Sway Bae, featuring exclusive content and creator updates. Built with Next.js, TypeScript, Supabase, Tailwind CSS, and more.',
     link: 'https://swaybae.net',
@@ -247,7 +239,7 @@ export const MORE_PROJECTS: ProjectWithoutVideo[] = [
     id: 'project11',
   },
   {
-    name: 'Sway Bae Offical v1',
+    name: 'SwayBae.net v1',
     description:
       'The *OLD* online space for streamer Sway Bae, featuring exclusive content and creator updates. Built with Next.js, JavaScript, Sanity, Tailwind CSS, and more.',
     link: 'https://swaybae-v1.vercel.app',
@@ -258,7 +250,7 @@ export const MORE_PROJECTS: ProjectWithoutVideo[] = [
 
 export const ABOUT_ITEMS: AboutTab[] = [
   {
-    title: 'Full Stack Development',
+    title: 'Full-Stack Software Development',
     subtitle: 'Building for the Web',
     content: `I design and build modern web applications from front to back. I focus on creating clean, accessible interfaces and building scalable back-end systems. My current stack includes TypeScript, React, Next.js, Tailwind CSS, Node.js, and Supabase, with attention to SEO, performance, accessibility, and real-world usability. I also explore how AI can support development workflows, accelerate problem-solving, and enhance product capabilities when used thoughtfully and responsibly. In the past, I've worked with MongoDB, Prisma, MySQL, Express, Bootstrap, and jQuery, all of which continue to shape how I approach new projects. Always looking to collaborate, so get in touch and let's build something beautiful!`,
   },
