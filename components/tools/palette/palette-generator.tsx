@@ -75,9 +75,10 @@ export default function PaletteGenerator() {
     }
   }, [copiedHex])
 
-  useEffect(() => {
-    setInputValue(baseColor)
-  }, [baseColor])
+  const updateBaseColor = (color: string) => {
+    setBaseColor(color)
+    setInputValue(color)
+  }
 
   const copyToClipboard = (hex: string) => {
     navigator.clipboard.writeText(hex)
@@ -122,8 +123,7 @@ export default function PaletteGenerator() {
     const newLightness = 20 + Math.random() * 60
 
     const newColor = hslToHex(newHue, newSaturation, newLightness)
-    setBaseColor(newColor)
-    setInputValue(newColor)
+    updateBaseColor(newColor)
     toast.success(`Randomized base color: ${newColor}`)
 
     setTimeout(() => setIsRandomizing(false), 500)
@@ -180,7 +180,7 @@ export default function PaletteGenerator() {
             <div className="relative aspect-video w-full overflow-hidden rounded-lg">
               <HexColorPicker
                 color={baseColor}
-                onChange={setBaseColor}
+                onChange={updateBaseColor}
                 style={{
                   width: '100%',
                   height: '100%',
@@ -194,7 +194,7 @@ export default function PaletteGenerator() {
               <PaletteColorInput
                 inputValue={inputValue}
                 setInputValue={setInputValue}
-                setBaseColor={setBaseColor}
+                setBaseColor={updateBaseColor}
                 formatHexValue={(value) => formatHexValue(value, baseColor)}
               />
             </div>
