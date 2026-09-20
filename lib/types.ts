@@ -71,8 +71,7 @@ export interface ButtonGroups {
 }
 
 export type DrawingEvent =
-  | React.MouseEvent<HTMLCanvasElement>
-  | React.TouchEvent<HTMLCanvasElement>
+  React.MouseEvent<HTMLCanvasElement> | React.TouchEvent<HTMLCanvasElement>
 
 export type PomodoroTimerMode = 'work' | 'break'
 
@@ -162,10 +161,6 @@ export type LinkVariant = 'back' | 'more' | 'external'
 export type IconComponent = ComponentType<SVGProps<SVGSVGElement>>
 
 export type PresetAnimationType =
-  | 'blur'
-  | 'fade-in-blur'
-  | 'scale'
-  | 'fade'
-  | 'slide'
+  'blur' | 'fade-in-blur' | 'scale' | 'fade' | 'slide'
 
 export type PerAnimationType = 'word' | 'char' | 'line'
