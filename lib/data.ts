@@ -31,7 +31,7 @@ export const SOCIAL_LINKS: Links[] = [
   },
   {
     label: 'Instagram',
-    href: 'https://instagram/ethanxgarrison',
+    href: 'https://instagram.com/ethanxgarrison',
   },
   {
     label: 'X (Twitter)',

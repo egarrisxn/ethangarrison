@@ -4,7 +4,7 @@ export default function manifest(): MetadataRoute.Manifest {
   return {
     name: 'ethangarrison.com',
     short_name: 'EG',
-    description: 'Full-Stack Software Developer.',
+    description: 'Software Developer | Dream. Build. Ship. Repeat.',
     theme_color: '#071119',
     background_color: '#071119',
     id: '/',
