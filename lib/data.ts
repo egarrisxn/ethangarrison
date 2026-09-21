@@ -77,7 +77,7 @@ export const WORK_EXPERIENCE: WorkExperience[] = [
   },
   {
     company: 'SwayBae.net',
-    title: 'Creative Tech and Event Lead',
+    title: 'Creative Tech & Event Lead',
     start: '2023',
     end: '2026',
     link: 'https://swaybae.net',

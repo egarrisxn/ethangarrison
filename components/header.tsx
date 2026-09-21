@@ -65,7 +65,7 @@ export function Header() {
             className="text-accent-foreground/80"
             delay={0.5}
           >
-            Software & Business Developer
+            Software Developer | Dream. Build. Ship. Repeat.
           </TextEffect>
         </section>
       </header>
