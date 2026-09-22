@@ -78,7 +78,7 @@ export default function Home() {
         </div>
         <div className="pt-5">
           <SmartLink
-            href="/resume/EG-US-RESUME-2026.pdf"
+            href="https://www.linkedin.com/in/ethangarrison"
             text="See more"
             variant="more"
           />

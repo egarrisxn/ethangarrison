@@ -57,7 +57,7 @@ export default function ContactForm() {
                 <FormControl>
                   <input
                     {...field}
-                    placeholder="Jane Doe"
+                    placeholder="Name"
                     aria-label="Name"
                     className="flex h-9 w-full min-w-0 rounded-md border border-input bg-card/70 px-3 py-1 text-base shadow-xs transition-[color,box-shadow] outline-none selection:bg-primary selection:text-primary-foreground file:inline-flex file:h-7 file:border-0 file:bg-card file:text-sm file:font-medium file:text-foreground placeholder:text-muted-foreground focus-visible:border-ring focus-visible:ring-[3px] focus-visible:ring-ring/50 disabled:pointer-events-none disabled:cursor-not-allowed disabled:opacity-50 aria-invalid:border-destructive aria-invalid:ring-destructive/20 md:text-sm dark:bg-input/30 dark:aria-invalid:ring-destructive/40"
                   />
@@ -76,7 +76,7 @@ export default function ContactForm() {
                   <input
                     {...field}
                     type="email"
-                    placeholder="your@email.com"
+                    placeholder="Email"
                     aria-label="Email"
                     className="flex h-9 w-full min-w-0 rounded-md border border-input bg-card/70 px-3 py-1 text-base shadow-xs transition-[color,box-shadow] outline-none selection:bg-primary selection:text-primary-foreground file:inline-flex file:h-7 file:border-0 file:bg-card file:text-sm file:font-medium file:text-foreground placeholder:text-muted-foreground focus-visible:border-ring focus-visible:ring-[3px] focus-visible:ring-ring/50 disabled:pointer-events-none disabled:cursor-not-allowed disabled:opacity-50 aria-invalid:border-destructive aria-invalid:ring-destructive/20 md:text-sm dark:bg-input/30 dark:aria-invalid:ring-destructive/40"
                   />
@@ -95,7 +95,7 @@ export default function ContactForm() {
               <FormControl>
                 <textarea
                   {...field}
-                  placeholder="Insert message here.."
+                  placeholder="Message"
                   aria-label="Message"
                   className="flex field-sizing-content min-h-32 w-full rounded-md border border-input bg-card/70 px-3 py-2 text-base shadow-xs transition-[color,box-shadow] outline-none placeholder:text-muted-foreground focus-visible:border-ring focus-visible:ring-[3px] focus-visible:ring-ring/50 disabled:cursor-not-allowed disabled:opacity-50 aria-invalid:border-destructive aria-invalid:ring-destructive/20 md:text-sm dark:bg-input/30 dark:aria-invalid:ring-destructive/40"
                 />
@@ -124,7 +124,7 @@ export default function ContactForm() {
                 strokeLinecap="round"
                 strokeLinejoin="round"
                 xmlns="http://www.w3.org/2000/svg"
-                className="mt-0.5 size-3 transition-all duration-300 ease-out group-hover:translate-x-[1.5px] group-hover:-translate-y-[1.5px]"
+                className="mt-0.5 size-3 transition-all duration-300 ease-out group-hover:translate-x-[1.5px] group-hover:translate-y-[-1.5px]"
               >
                 <path d="M14.536 21.686a.5.5 0 0 0 .937-.024l6.5-19a.496.496 0 0 0-.635-.635l-19 6.5a.5.5 0 0 0-.024.937l7.93 3.18a2 2 0 0 1 1.112 1.11z" />
                 <path d="m21.854 2.147-10.94 10.939" />
