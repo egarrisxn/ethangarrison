@@ -175,36 +175,12 @@ export const MORE_PROJECTS: ProjectWithoutVideo[] = [
     id: 'project3',
   },
   {
-    name: 'ScribeVoice',
-    description:
-      'A voice-to-text transcription tool for capturing notes, ideas, and conversations. Built with Next.js, TypeScript, Supabase, OpenAI, Tailwind CSS, and more.',
-    link: 'https://scribevoice.vercel.app',
-    thumbnail: '/projects/scribevoice.png',
-    id: 'project4',
-  },
-  {
-    name: 'Patricia Penisten: A Life Remembered',
-    description:
-      'A website to celebrate the life and legacy of my grandmother, Pat Penisten (1935-2025). Built with Next.js, TypeScript, Supabase, Tailwind CSS, and more.',
-    link: 'https://patricia-penisten.com',
-    thumbnail: '/projects/patriciapenisten.png',
-    id: 'project5',
-  },
-  {
-    name: 'xprod',
-    description:
-      'A full-featured productivity app to manage tasks, notes, and daily routines. Built with Next.js, TypeScript, Supabase, Zod, Tailwind CSS, and more.',
-    link: 'https://xprod.vercel.app',
-    thumbnail: '/projects/xprod.png',
-    id: 'project6',
-  },
-  {
     name: 'International Worldwide',
     description:
       'A multilingual platform for practicing coding challenges with internationalization support. Built with Next.js, JavaScript, Next-Intl, Tailwind CSS, and more.',
     link: 'https://international-worldwide.vercel.app',
     thumbnail: '/projects/internationalworldwide.png',
-    id: 'project7',
+    id: 'project4',
   },
   {
     name: 'ATS Resbuilder',
@@ -212,23 +188,15 @@ export const MORE_PROJECTS: ProjectWithoutVideo[] = [
       'A professional resume builder focused on ATS compatibility for better hiring results. Built with Next.js, JavaScript, MDX, Tailwind CSS, and more.',
     link: 'https://ats-resbuilder.vercel.app',
     thumbnail: '/projects/resbuilder.png',
-    id: 'project8',
+    id: 'project5',
   },
   {
-    name: 'Resplashpad',
+    name: 'Patricia Penisten: A Life Remembered',
     description:
-      'A high-resolution photo browser powered by the Unsplash API. Built with Vite, TypeScript, TanStack Query, Tailwind CSS, and more.',
-    link: 'https://resplashpad.vercel.app',
-    thumbnail: '/projects/resplashpad.png',
-    id: 'project9',
-  },
-  {
-    name: 'n00b:dev',
-    description:
-      'A developer blog sharing practical coding tips, tools, and insights for beginner level developers. Built with Astro, TypeScript, Tailwind CSS, and more.',
-    link: 'https://n00bdev.vercel.app',
-    thumbnail: '/projects/n00bdev.png',
-    id: 'project10',
+      'A website to celebrate the life and legacy of my grandmother, Pat Penisten (1935-2025). Built with Next.js, TypeScript, Supabase, Tailwind CSS, and more.',
+    link: 'https://patricia-penisten.com',
+    thumbnail: '/projects/patriciapenisten.png',
+    id: 'project6',
   },
   {
     name: 'Unofficial Merchandise',
@@ -236,6 +204,38 @@ export const MORE_PROJECTS: ProjectWithoutVideo[] = [
       'A modern e-commerce storefront offering smooth shopping and Stripe-powered payments. Built with Next.js, JavaScript, Sanity, Tailwind CSS, and more.',
     link: 'https://unofficialmerchandise.vercel.app',
     thumbnail: '/projects/unofficialmerchandise.png',
+    id: 'project7',
+  },
+  {
+    name: 'ScribeVoice',
+    description:
+      'A voice-to-text transcription tool for capturing notes, ideas, and conversations. Built with Next.js, TypeScript, Supabase, OpenAI, Tailwind CSS, and more.',
+    link: 'https://scribevoice.vercel.app',
+    thumbnail: '/projects/scribevoice.png',
+    id: 'project8',
+  },
+  {
+    name: 'xprod',
+    description:
+      'A full-featured productivity app to manage tasks, notes, and daily routines. Built with Next.js, TypeScript, Supabase, Zod, Tailwind CSS, and more.',
+    link: 'https://xprod.vercel.app',
+    thumbnail: '/projects/xprod.png',
+    id: 'project9',
+  },
+  {
+    name: 'Resplashpad',
+    description:
+      'A high-resolution photo browser powered by the Unsplash API. Built with Vite, TypeScript, TanStack Query, Tailwind CSS, and more.',
+    link: 'https://resplashpad.vercel.app',
+    thumbnail: '/projects/resplashpad.png',
+    id: 'project10',
+  },
+  {
+    name: 'n00b:dev',
+    description:
+      'A developer blog sharing practical coding tips, tools, and insights for beginner level developers. Built with Astro, TypeScript, Tailwind CSS, and more.',
+    link: 'https://n00bdev.vercel.app',
+    thumbnail: '/projects/n00bdev.png',
     id: 'project11',
   },
   {
