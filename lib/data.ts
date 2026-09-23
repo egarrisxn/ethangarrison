@@ -239,12 +239,20 @@ export const MORE_PROJECTS: ProjectWithoutVideo[] = [
     id: 'project11',
   },
   {
+    name: 'egxo.fyi',
+    description:
+      'An old blog created to document my journey as a developer. Built with Next.js, React, JavaScript, Sanity, Tailwind CSS, Radix-UI, Vercel, & more.',
+    link: 'https://egxo.fyi',
+    thumbnail: '/projects/egxo-fyi.png',
+    id: 'project12',
+  },
+  {
     name: 'swaybae.net v1',
     description:
       'The *OLD* online space for streamer Sway Bae, featuring exclusive content and creator updates. Built with Next.js, JavaScript, Sanity, Tailwind CSS, and more.',
     link: 'https://swaybae-v1.vercel.app',
     thumbnail: '/projects/swaybae-v1.png',
-    id: 'project12',
+    id: 'project13',
   },
 ]
 
