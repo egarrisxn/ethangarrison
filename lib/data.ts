@@ -175,11 +175,11 @@ export const MORE_PROJECTS: ProjectWithoutVideo[] = [
     id: 'project3',
   },
   {
-    name: 'International Worldwide',
+    name: 'Patricia Penisten: A Life Remembered',
     description:
-      'A multilingual platform for practicing coding challenges with internationalization support. Built with Next.js, JavaScript, Next-Intl, Tailwind CSS, and more.',
-    link: 'https://international-worldwide.vercel.app',
-    thumbnail: '/projects/internationalworldwide.png',
+      'A website to celebrate the life and legacy of my grandmother, Pat Penisten (1935-2025). Built with Next.js, TypeScript, Supabase, Tailwind CSS, and more.',
+    link: 'https://patricia-penisten.com',
+    thumbnail: '/projects/patriciapenisten.png',
     id: 'project4',
   },
   {
@@ -191,11 +191,11 @@ export const MORE_PROJECTS: ProjectWithoutVideo[] = [
     id: 'project5',
   },
   {
-    name: 'Patricia Penisten: A Life Remembered',
+    name: 'International Worldwide',
     description:
-      'A website to celebrate the life and legacy of my grandmother, Pat Penisten (1935-2025). Built with Next.js, TypeScript, Supabase, Tailwind CSS, and more.',
-    link: 'https://patricia-penisten.com',
-    thumbnail: '/projects/patriciapenisten.png',
+      'A multilingual platform for practicing coding challenges with internationalization support. Built with Next.js, JavaScript, Next-Intl, Tailwind CSS, and more.',
+    link: 'https://international-worldwide.vercel.app',
+    thumbnail: '/projects/internationalworldwide.png',
     id: 'project6',
   },
   {
