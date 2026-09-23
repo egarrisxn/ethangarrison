@@ -76,7 +76,7 @@ export const WORK_EXPERIENCE: WorkExperience[] = [
     id: 'work1',
   },
   {
-    company: 'SwayBae.net',
+    company: 'swaybae.net',
     title: 'Creative Tech & Event Lead',
     start: '2023',
     end: '2026',
@@ -167,7 +167,7 @@ export const MORE_PROJECTS: ProjectWithoutVideo[] = [
     id: 'project2',
   },
   {
-    name: 'SwayBae.net v2',
+    name: 'swaybae.net v2',
     description:
       'The *NEW* online space for streamer Sway Bae, featuring exclusive content and creator updates. Built with Next.js, TypeScript, Supabase, Tailwind CSS, and more.',
     link: 'https://swaybae.net',
@@ -191,7 +191,7 @@ export const MORE_PROJECTS: ProjectWithoutVideo[] = [
     id: 'project5',
   },
   {
-    name: 'XProd',
+    name: 'xprod',
     description:
       'A full-featured productivity app to manage tasks, notes, and daily routines. Built with Next.js, TypeScript, Supabase, Zod, Tailwind CSS, and more.',
     link: 'https://xprod.vercel.app',
@@ -239,7 +239,7 @@ export const MORE_PROJECTS: ProjectWithoutVideo[] = [
     id: 'project11',
   },
   {
-    name: 'SwayBae.net v1',
+    name: 'swaybae.net v1',
     description:
       'The *OLD* online space for streamer Sway Bae, featuring exclusive content and creator updates. Built with Next.js, JavaScript, Sanity, Tailwind CSS, and more.',
     link: 'https://swaybae-v1.vercel.app',
