@@ -167,12 +167,20 @@ export const MORE_PROJECTS: ProjectWithoutVideo[] = [
     id: 'project2',
   },
   {
+    name: 'Paste2Playlist',
+    description:
+      'A simple tool for creating Spotify playlists from text. Built with Next.js, TypeScript, Spotify API, Tailwind CSS, and more.',
+    link: 'https://paste2playlist.vercel.app',
+    thumbnail: '/projects/paste2playlist.png',
+    id: 'project3',
+  },
+  {
     name: 'swaybae.net v2',
     description:
       'The *NEW* online space for streamer Sway Bae, featuring exclusive content and creator updates. Built with Next.js, TypeScript, Supabase, Tailwind CSS, and more.',
     link: 'https://swaybae.net',
     thumbnail: '/projects/swaybae-v2.png',
-    id: 'project3',
+    id: 'project4',
   },
   {
     name: 'Patricia Penisten: A Life Remembered',
@@ -180,7 +188,7 @@ export const MORE_PROJECTS: ProjectWithoutVideo[] = [
       'A website to celebrate the life and legacy of my grandmother, Pat Penisten (1935-2025). Built with Next.js, TypeScript, Supabase, Tailwind CSS, and more.',
     link: 'https://patricia-penisten.com',
     thumbnail: '/projects/patriciapenisten.png',
-    id: 'project4',
+    id: 'project5',
   },
   {
     name: 'ATS Resbuilder',
@@ -188,7 +196,7 @@ export const MORE_PROJECTS: ProjectWithoutVideo[] = [
       'A professional resume builder focused on ATS compatibility for better hiring results. Built with Next.js, JavaScript, MDX, Tailwind CSS, and more.',
     link: 'https://ats-resbuilder.vercel.app',
     thumbnail: '/projects/resbuilder.png',
-    id: 'project5',
+    id: 'project6',
   },
   {
     name: 'International Worldwide',
@@ -196,7 +204,7 @@ export const MORE_PROJECTS: ProjectWithoutVideo[] = [
       'A multilingual platform for practicing coding challenges with internationalization support. Built with Next.js, JavaScript, Next-Intl, Tailwind CSS, and more.',
     link: 'https://international-worldwide.vercel.app',
     thumbnail: '/projects/internationalworldwide.png',
-    id: 'project6',
+    id: 'project7',
   },
   {
     name: 'Unofficial Merchandise',
@@ -204,7 +212,7 @@ export const MORE_PROJECTS: ProjectWithoutVideo[] = [
       'A modern e-commerce storefront offering smooth shopping and Stripe-powered payments. Built with Next.js, JavaScript, Sanity, Tailwind CSS, and more.',
     link: 'https://unofficialmerchandise.vercel.app',
     thumbnail: '/projects/unofficialmerchandise.png',
-    id: 'project7',
+    id: 'project8',
   },
   {
     name: 'ScribeVoice',
@@ -212,7 +220,7 @@ export const MORE_PROJECTS: ProjectWithoutVideo[] = [
       'A voice-to-text transcription tool for capturing notes, ideas, and conversations. Built with Next.js, TypeScript, Supabase, OpenAI, Tailwind CSS, and more.',
     link: 'https://scribevoice.vercel.app',
     thumbnail: '/projects/scribevoice.png',
-    id: 'project8',
+    id: 'project9',
   },
   {
     name: 'xprod',
@@ -220,7 +228,7 @@ export const MORE_PROJECTS: ProjectWithoutVideo[] = [
       'A full-featured productivity app to manage tasks, notes, and daily routines. Built with Next.js, TypeScript, Supabase, Zod, Tailwind CSS, and more.',
     link: 'https://xprod.vercel.app',
     thumbnail: '/projects/xprod.png',
-    id: 'project9',
+    id: 'project10',
   },
   {
     name: 'Resplashpad',
@@ -228,7 +236,7 @@ export const MORE_PROJECTS: ProjectWithoutVideo[] = [
       'A high-resolution photo browser powered by the Unsplash API. Built with Vite, TypeScript, TanStack Query, Tailwind CSS, and more.',
     link: 'https://resplashpad.vercel.app',
     thumbnail: '/projects/resplashpad.png',
-    id: 'project10',
+    id: 'project11',
   },
   {
     name: 'n00b:dev',
@@ -236,7 +244,7 @@ export const MORE_PROJECTS: ProjectWithoutVideo[] = [
       'A developer blog sharing practical coding tips, tools, and insights for beginner level developers. Built with Astro, TypeScript, Tailwind CSS, and more.',
     link: 'https://n00bdev.vercel.app',
     thumbnail: '/projects/n00bdev.png',
-    id: 'project11',
+    id: 'project12',
   },
   {
     name: 'egxo.fyi',
@@ -244,7 +252,7 @@ export const MORE_PROJECTS: ProjectWithoutVideo[] = [
       'An old blog created to document my journey as a developer. Built with Next.js, React, JavaScript, Sanity, Tailwind CSS, Radix-UI, Vercel, & more.',
     link: 'https://egxo.fyi',
     thumbnail: '/projects/egxo-fyi.png',
-    id: 'project12',
+    id: 'project13',
   },
   {
     name: 'swaybae.net v1',
@@ -252,7 +260,7 @@ export const MORE_PROJECTS: ProjectWithoutVideo[] = [
       'The *OLD* online space for streamer Sway Bae, featuring exclusive content and creator updates. Built with Next.js, JavaScript, Sanity, Tailwind CSS, and more.',
     link: 'https://swaybae-v1.vercel.app',
     thumbnail: '/projects/swaybae-v1.png',
-    id: 'project13',
+    id: 'project14',
   },
 ]
 
